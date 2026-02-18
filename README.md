@@ -1,15 +1,15 @@
 # Hi, I'm Ben 👋
 ### Full-Stack Web Developer | Specialized in PHP & JavaScript
 
-I am a Computer Programming student focusing on **Full-Stack Web Development**, specializing in **PHP** and **JavaScript** with a touch of **AI** for modern workflows.
+I am a Computer Programming student focusing on **Full-Stack Web Development**. I specialize in building robust systems using **PHP** and **Node.js**, while creating modern interfaces with **HTML/CSS**, **JavaScript**, and **TypeScript**. I also leverage **AI tools** to optimize development efficiency.
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 Technical Skills
 * **Back-End:** PHP (Advanced), Node.js, RESTful APIs.
-* **Front-End:** JavaScript, TypeScript, Modern Frameworks (React/Vue/Angular).
+* **Front-End:** HTML5, CSS3, JavaScript (ES6+), TypeScript, Frameworks.
 * **Databases:** SQL & Database Management.
-* **Tools:** AI-driven UI/UX, Agile (Scrum), & Web Administration.
+* **Modern Tools:** AI-driven UI/UX, Agile (Scrum), Web Administration.
 
 ---
 
