@@ -10,7 +10,7 @@ My core development philosophy revolves around integrating advanced Artificial I
 ### Technical Arsenal
 
 * **Programming Languages:** JavaScript (ES6+), TypeScript, PHP, Python, Golang.
-* **Front-End Development:** React, Angular, HTML5, CSS3.
+* **Front-End Development:** React, Angular, Tailwind CSS, HTML5, CSS3.
 * **Back-End Development:** Node.js, PHP, RESTful APIs, Microservices.
 * **Infrastructure & DevOps:** Docker, Virtual Private Servers (VPS), Server Configuration & Deployment.
 * **Databases:** SQL, Database Architecture & Optimization.
