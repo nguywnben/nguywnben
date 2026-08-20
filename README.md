@@ -10,7 +10,7 @@
 
 | Domain | Technologies & Capabilities |
 | :--- | :--- |
-| **AI Workflows & Agents** | `Codex` `Claude Code` `Google Antigravity` `Context Engineering` `Agentic Workflows` |
+| **AI Workflows & Agents** | `Codex` `Claude Code` `Context Engineering` `Agentic Workflows` |
 | **Languages & Runtimes** | `Python` `TypeScript` `JavaScript (Node.js)` `Go` `SQL` |
 | **Backend & Systems** | `FastAPI` `AsyncIO` `Express.js` `SSE / WebSockets` `REST APIs` |
 | **Databases & Infra** | `PostgreSQL` `SQLite (WAL)` `MongoDB` `Redis` `Docker` `GitHub Actions` |
