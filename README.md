@@ -1,20 +1,20 @@
-### Systems, AI Infrastructure & High-Concurrency Engineering
+### AI-Native Software Engineer • Systems & Workflow Architect
 
-* **AI Infrastructure & Developer Tooling:** Engineering resilient gateways, format conversion layers, credential orchestration, and token-aware context optimization for AI-driven workflows.
-* **High-Concurrency Systems & Networking:** Building asynchronous microservices, multi-protocol verification engines, and automated data pipelines with low latency overhead.
-* **Full-Stack Architecture & Web Ecosystems:** Developing modular backend APIs, structured database schemas, and clean, responsive web applications.
+* **AI-Augmented Engineering:** Leveraging modern LLMs, coding agents, and context engineering as primary force multipliers to rapidly architect, prototype, and ship production-ready systems.
+* **AI Tooling & Infrastructure:** Engineering custom routing gateways, protocol adapters, and automated pipelines to optimize and scale AI-driven developer workflows.
+* **Architectural Oversight & Quality:** Acting as the system architect to guide AI code generation with strong constraints—enforcing security, robust design patterns, and high code quality.
 
 ---
 
-### Technical Capabilities
+### AI Arsenal & Technical Matrix
 
-| Domain | Technologies & Ecosystem |
+| Domain | Technologies & Capabilities |
 | :--- | :--- |
-| **Languages** | `Python` `TypeScript` `JavaScript (Node.js/ESM)` `Go` `PHP` `SQL` |
-| **Backend & Systems** | `FastAPI` `Hypercorn` `Express.js` `AsyncIO` `SSE / WebSockets` `REST APIs` |
-| **Databases & Cache** | `PostgreSQL` `SQLite (WAL)` `MongoDB` `Redis` |
-| **DevOps & Infrastructure** | `Docker` `Docker Compose` `Linux / VPS Administration` `Reverse Proxies` `GitHub Actions` |
-| **Frontend & UI** | `Angular` `React` `Astro` `Tailwind CSS` `Modular Vanilla JS/CSS` |
+| **AI Workflows & Agents** | `Codex` `Claude Code` `Google Antigravity` `Context Engineering` `Agentic Workflows` |
+| **Languages & Runtimes** | `Python` `TypeScript` `JavaScript (Node.js)` `Go` `SQL` |
+| **Backend & Systems** | `FastAPI` `AsyncIO` `Express.js` `SSE / WebSockets` `REST APIs` |
+| **Databases & Infra** | `PostgreSQL` `SQLite (WAL)` `MongoDB` `Redis` `Docker` `GitHub Actions` |
+| **Frontend & Web** | `Angular` `React` `Astro` `Tailwind CSS` |
 
 ---
 
